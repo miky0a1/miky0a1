@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @miky0a1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-miky0a1/miky0a1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in taking projects to the top highest limits 
+- 🌱 I’m currently learning how to spread and promote new projects all over the world 
+- 💞️ I’m looking to collaborate on making this project the next big thing
+- 📫 How to reach me:discord-{Miky#8453},gmail-{miky41610@gmail.com},telegram{@Gem_genius01}
